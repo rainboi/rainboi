@@ -1,4 +1,4 @@
-# Hi :
+# Hi
 I'm Levan, a Full Stack developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/levan-nadiradze-295220162) 
 
